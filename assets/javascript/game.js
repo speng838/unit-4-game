@@ -17,10 +17,10 @@ $(document).ready(function(){
         number = Math.floor((Math.random() * 102) + 19);
         $("#computerNumber").text(number);
       
-        randomNumber1 = Math.floor((Math.random() * 10) + 1);
-        randomNumber2 = Math.floor((Math.random() * 10) + 1);
-        randomNumber3 = Math.floor((Math.random() * 10) + 1);
-        randomNumber4 = Math.floor((Math.random() * 10) + 1);
+        randomNumber1 = Math.floor((Math.random() * 12) + 1);
+        randomNumber2 = Math.floor((Math.random() * 12) + 1);
+        randomNumber3 = Math.floor((Math.random() * 12) + 1);
+        randomNumber4 = Math.floor((Math.random() * 12) + 1);
         };
 
         var total = 0;
